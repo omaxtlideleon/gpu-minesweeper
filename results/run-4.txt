@@ -1,0 +1,20 @@
+Using NVIDIA GeForce RTX 4060
+    Generating boards: 151473214816
+
+All nine histogram counts match the formula result.
+
+Results:
+    0: 2606835066264 appearances (26.890429413%)
+    1: 3286482376320 appearances (33.901232764%)
+    2: 1718041685580 appearances (17.722210075%)
+    3: 482808902400 appearances (4.980345277%)
+    4: 77911023960 appearances (0.803679879%)
+    5: 7123152960 appearances (0.073477852%)
+    6: 343783440 appearances (0.003546248%)
+    7: 7555680 appearances (0.000077940%)
+    8: 53460 appearances (0.000000551%)
+
+Extra:
+    Time taken: 1.935s
+    Speed: ~78274930331 boards/s
+    Speed (tiles): ~5009595.5 Mtiles/s

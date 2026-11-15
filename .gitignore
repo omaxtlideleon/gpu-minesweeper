@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+*.lib
+*.exp
+
+.build-temp/
+*.ncu-rep
+*.nsys-rep
